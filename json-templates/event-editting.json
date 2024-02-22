@@ -1,0 +1,18 @@
+{
+    “eventId“ : 1
+    “event” : {
+    “type” : “TRAINING” 
+    “location” : “anywhere”
+    "timeFrame":
+    {
+    "first": 1924257600000,
+    "second": 1924282800000
+    },
+  "requirements": {
+    "Gender": "F",
+    "Organization": "org",
+    "Certificate": "C4",
+    "Professional": "true"
+  }
+}
+}

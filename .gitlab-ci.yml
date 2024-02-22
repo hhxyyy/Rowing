@@ -1,0 +1,5 @@
+include:
+  - authentication-microservice/.gitlab-ci.yml
+  - scheduler-microservice/.gitlab-ci.yml
+  - event-microservice/.gitlab-ci.yml
+  - user-microservice/.gitlab-ci.yml

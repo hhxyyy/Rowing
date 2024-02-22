@@ -1,0 +1,15 @@
+{
+  "availability": [
+    {
+      "first": 1924257500000,
+      "second": 1924282900000
+    }
+  ],
+  "positions": [
+    true,
+    false,
+    false,
+    false,
+    false
+  ]
+}

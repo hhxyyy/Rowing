@@ -1,0 +1,7 @@
+{
+	"certificate": "new_certificate_name",
+	"supersedes": [
+        "it_supersedes_this_certificate",
+        "and_this_certificate"
+    ]
+}

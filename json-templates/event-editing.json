@@ -1,0 +1,14 @@
+{
+  "location": "location",
+  "timeFrame":
+  {
+    "first": 1924257600000,
+    "second": 1924282800500
+  },
+  "requirements": {
+    "Gender": "F",
+    "Organization": "org",
+    "Certificate": "C4",
+    "Professional": "true"
+  }
+}

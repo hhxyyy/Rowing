@@ -1,0 +1,15 @@
+{
+  "type": "competition",
+  "location": "location",
+  "timeFrame":
+  {
+    "first": 1924257600000,
+    "second": 1924282800000
+  },
+  "requirements": {
+    "Gender": "F",
+    "Organization": "org",
+    "Certificate": "C4",
+    "Professional": "true"
+  }
+}
